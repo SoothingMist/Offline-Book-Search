@@ -10,7 +10,10 @@ See ReadMe.pdf for details on using this application. BookSearch.exe starts a lo
 I use this application to find quality material while developing college courses for various organizations that provide learning opportunities. I hope you also gain good benefit.
 
 # Files
-BookSearchExecutable.zip - See the included ReadMe.pdf
+Create an empty directory and place these files into that directory.
+BookSearch.exe - The application's executable.
+ReadMe.pdf - Information on how to use the application.
+data.zip - Contains a directory with the book index.
 
 # License
 GNU Affero General Public License v3.0
