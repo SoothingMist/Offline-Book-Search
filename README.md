@@ -8,3 +8,13 @@ BookSearch, the capability presented here, allows one to explore the “card cat
 See ReadMe.pdf for details on using this application. BookSearch.exe starts a local webserver and provides an interface for searching the database. Set your browser to http://127.0.0.1:5000 for the search dialog. Enter ^C into the console to end the application. The About tab shows the sources used. These sources were consolidated into the application presented here. 
 
 I use this application to find quality material while developing college courses for various organizations that provide learning opportunities. I hope you also gain good benefit.
+
+# Files
+BookSearchExecutable.zip - See the included ReadMe.pdf
+
+# License
+GNU Affero General Public License v3.0
+
+Permissions of this strongest copyleft license are conditioned on making available complete source code of licensed works and modifications, which include larger works using a licensed work, under the same license. Copyright and license notices must be preserved. Contributors provide an express grant of patent rights. When a modified version is used to provide a service over a network, the complete source code of the modified version must be made available.
+
+This is not legal advice. Learn more about repository licenses: https://docs.github.com/articles/licensing-a-repository/#disclaimer. Additional license information is here: https://github.com/SoothingMist/Remote-Soil-Moisture-Sensing/blob/main/LICENSE.
