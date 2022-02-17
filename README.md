@@ -11,8 +11,11 @@ I use this application to find quality material while developing college courses
 
 # Files
 Create an empty directory and place these files into that directory.
+
 BookSearch.exe - The application's executable.
+
 ReadMe.pdf - Information on how to use the application.
+
 data.zip - Contains a directory with the book index.
 
 # License
