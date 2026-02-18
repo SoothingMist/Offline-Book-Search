@@ -5,9 +5,11 @@ During my student days, a great deal of benefit was gained, and, in fact, still 
 
 BookSearch, the capability presented here, allows one to explore the “card catalog” of a large collection of open-access downloadable books. The search can be conducted without internet access. However, internet access is required to actually download a book. The idea is to make best use of internet access when that is available. This supports people who do not always have internet access, an important consideration in many parts of the world. If internet access is readily available, an online version of this application is available: http://informationanthology.net/Open-Access-Search.html.
 
+Jeff Edmunds, Digital Access Coordinator at Penn State University Libraries, gives an excellent discussion on why open-access text books are so important (https://www.youtube.com/watch?v=PygUK16aQgk). Traditional means of publishing and purchasing text books have become too expensive for increasing numbers of students. This creates a barrier to learning and economic growth, and not just in developing nations.
+
 See ReadMe.pdf for details on using this application. BookSearch.exe starts a local webserver and provides an interface for searching the database. Set your browser to http://127.0.0.1:5000 for the search dialog. Enter ^C into the console to end the application. The About tab shows the sources used. These sources were consolidated into the application presented here. 
 
-I use this application to find quality material while developing college courses for various organizations that provide learning opportunities. I hope you also gain good benefit.
+I use this application to find quality material while developing college courses for various non-profits that provide learning opportunities. I hope you also gain good benefit.
 
 # Files
 Create an empty directory and place these files into that directory.
